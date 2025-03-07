@@ -1,4 +1,4 @@
-baseURL = "https://<username>.github.io/Antons-site/"
+baseURL = "https://wcbt.github.io/Antons-site/"
 languageCode = "en-us"
 title = "My Hugo Resume Site"
 theme = "ananke"
