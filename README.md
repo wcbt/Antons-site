@@ -1,4 +1,4 @@
-```markdown
+
 # Hosting a Resume with Hugo and GitHub Pages
 
 ## Purpose
@@ -21,7 +21,7 @@ Before proceeding, ensure you have the following installed on your system:
 
   ```powershell
   scoop install hugo
-  ```
+
 
 - A **GitHub account** ([Sign up here](https://github.com/))
 - A **text editor** (e.g., VS Code, Notepad++, or any Markdown editor)
