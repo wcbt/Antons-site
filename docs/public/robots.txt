@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wcbt.github.io/sitemap.xml
