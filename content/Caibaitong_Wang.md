@@ -1,6 +1,5 @@
 ---
-title: "My Resume"
-date: 2025-03-07T12:00:00
+title: "Anton's Resume"
 draft: false
 ---
 

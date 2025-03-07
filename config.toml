@@ -1,20 +1,17 @@
-baseURL = "https://wcbt.github.io/Antons-site/"
+baseURL = "https://<username>.github.io/Antons-site/"
 languageCode = "en-us"
 title = "My Hugo Resume Site"
-theme = "ananke"  # Replace this with your chosen theme folder name
-enableRobotsTXT = true  # Optional: generate a robots.txt
+theme = "ananke"
 
-[params]
-  # Some themes use extra params here. Check your theme's docs.
-
-# Example: create a main menu link to your resume page
 [menu]
   [[menu.main]]
     name = "Home"
-    url  = "/"
+    url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Resume"
-    url  = "/resume/caibaitong_wang/"
+    # Because your file is now directly in content/, 
+    # the page URL is usually "/caibaitong_wang/"
+    url = "/caibaitong_wang/"
     weight = 2
